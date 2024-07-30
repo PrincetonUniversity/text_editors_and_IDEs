@@ -34,7 +34,7 @@ $ vim
 
 `vim` has a scripting language that allows for plugin-like extensions to enable IDE behavior, syntax highlighting, colorization as well as other advanced features. With `vim` and `emacs` you keep your hands on the keyboard and rarely use the mouse. Some find this helpful not only for productivity but to reduce repetitive strain injury (RSI) such as carpal tunnel syndrome. `vim` takes some time to learn. Visit the [vim](https://www.vim.org/) website.
 
-In January 2025, look for the Wintersession workshop [Mastering vim: Edit as Fast as You Think](https://github.com/troycomi/intermediate-vim).
+In January 2025, look for the Wintersession workshop [Mastering vim: Edit as Fast as You Think](https://github.com/troycomi/intermediate-vim). See a `vim` configuration file for macOS on [iscinumpy.dev](https://iscinumpy.dev/post/setup-a-new-mac/).
 
 ### neovim
 
