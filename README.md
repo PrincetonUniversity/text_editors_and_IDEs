@@ -73,7 +73,7 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 ## Recommendations
 
-Princeton Research Computing encourages researchers using the clusters to know a simple text editor (e.g., vim, emacs) and an IDE. Here are some good possibilities:
+Princeton Research Computing encourages researchers using the high-performance computing clusters to know one or more tools for simple editing and IDE-like work for software engineering. Here are some good possibilities:
 
 - VS Code and nano/emacs/vim
 - PyCharm and nano/emacs/vim
