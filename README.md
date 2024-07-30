@@ -67,6 +67,8 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 [Remote development](https://researchcomputing.princeton.edu/support/knowledge-base/vs-code) is possible on the Research Computing systems. This allows you work with files on a remote system with VS code installed locally on your laptop.
 
+`vim` users should be aware of [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) which is an extension that provides `vim` emulation for Visual Studio Code.
+
 ## PyCharm
 
 [JetBrains](https://www.jetbrains.com/) provides IDEs for Python, Java, JavaScript, .NET, and more. See [PyCharm](https://www.jetbrains.com/pycharm/) for Python. Get the Professional edition by using your `princeton.edu` email address. With the professional version you can do remote development.
