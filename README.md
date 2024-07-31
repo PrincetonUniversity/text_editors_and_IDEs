@@ -67,7 +67,11 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 [Remote development](https://researchcomputing.princeton.edu/support/knowledge-base/vs-code) is possible on the Research Computing systems. This allows you work with files on a remote system with VS code installed locally on your laptop.
 
+Another way to use VS Code on the Research Computing clusters is via [Open OnDemand](https://researchcomputing.princeton.edu/support/knowledge-base/connect-web). In the main menu, choose "Interactive Apps" then "CodeServer on Vis Nodes".
+
 `vim` users should be aware of [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) which is an extension that provides `vim` emulation for Visual Studio Code.
+
+Users can work on GitHub repo in a browser-based VS Code environment by pressing the period (.) key. To try it, just browse to a GitHub repo and press the period key on your keyboard.
 
 ## PyCharm
 
@@ -83,3 +87,7 @@ Princeton Research Computing encourages researchers using the high-performance c
 - vim (fully configured as an IDE)
 
 The general idea is to know a simple text editor and something with IDE features.
+
+## Authorship
+
+This page was created by Jonathan Halverson and members of Princeton Research Computing.
