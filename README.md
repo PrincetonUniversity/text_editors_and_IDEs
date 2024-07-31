@@ -71,7 +71,7 @@ Another way to use VS Code on the Research Computing clusters is via [Open OnDem
 
 `vim` users should be aware of [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) which is an extension that provides `vim` emulation for Visual Studio Code.
 
-Users can work on GitHub repo in a browser-based VS Code environment by pressing the period (.) key. To try it, just browse to a GitHub repo and press the period key on your keyboard.
+Users can work on a GitHub repo in a browser-based VS Code environment. To do this just browse to a GitHub repo and press the period key on your keyboard.
 
 ## PyCharm
 
