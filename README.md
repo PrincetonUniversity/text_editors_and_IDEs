@@ -26,7 +26,7 @@ $ nano
 
 ### vim
 
-To start emacs on a Research Computing system:
+To start `vim` on a Research Computing cluster:
 
 ```
 $ vim
@@ -38,7 +38,7 @@ In January 2025, look for the Wintersession workshop [Mastering vim: Edit as Fas
 
 ### neovim
 
-[Neovim](https://neovim.io/) is a fork on vim with refactoring and modernizing the codebase and feature set. See an overview of Neovim on [YouTube](https://www.youtube.com/watch?v=c4OyfL5o7DU) in 100 seconds. Plugins in Neovim are written in Lua. [LazyVim](https://www.lazyvim.org/) is a Neovim setup powered by `lazy.nvim` to make it easy to customize and extend your config. Read about [Vim versus Neovim](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/).
+[Neovim](https://neovim.io/) is a fork of vim with refactoring and modernizing the codebase and feature set. See an overview of Neovim on [YouTube](https://www.youtube.com/watch?v=c4OyfL5o7DU) in 100 seconds. Plugins in Neovim are written in Lua. [LazyVim](https://www.lazyvim.org/) is a Neovim setup powered by `lazy.nvim` to make it easy to customize and extend your config. Read about [Vim versus Neovim](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/).
 
 Neovim offers these benefits:
 
@@ -51,8 +51,8 @@ Neovim offers these benefits:
 On the Research Computing clusters, you should build Neovim from source so that you can use the latest version. To use version 0.9.5, run these commands: 
 
 ```bash
-$ wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-linux64.tar.gz
-$ tar -C . -xzf nvim-linux64.tar.gz
+$ wget https://github.com/neovim/neovim/releases/download/v0.11.2/nvim-linux-x86_64.tar.gz
+$ tar -C . -xzf nvim-linux-x86_64.tar.gz
 $ cd bin
 $ ./nvim
 ```
