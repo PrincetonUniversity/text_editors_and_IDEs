@@ -75,10 +75,10 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 **Upcoming workshop**:
 
-[Connecting Visual Studio Code to the Research Computing Clusters](https://cglink.me/2gi/r1960584)
-Thursday, June 26, 2025 at 2:30-4:00 PM
-Location: Lewis Library 121
-Instructor: Mattie Niznik, Research Software & Programming Analyst, Research Computing
+[Connecting Visual Studio Code to the Research Computing Clusters](https://cglink.me/2gi/r1960584)  
+Thursday, June 26, 2025 at 2:30-4:00 PM  
+Location: Lewis Library 121  
+Instructor: Mattie Niznik, Research Software & Programming Analyst, Research Computing  
 
 [Remote development](https://researchcomputing.princeton.edu/support/knowledge-base/vs-code) is possible on the Research Computing systems. This allows you work with files on a remote system with VS code installed locally on your laptop.
 
