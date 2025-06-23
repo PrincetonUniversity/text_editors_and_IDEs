@@ -34,7 +34,7 @@ $ vim
 
 `vim` has a scripting language that allows for plugin-like extensions to enable IDE behavior, syntax highlighting, colorization as well as other advanced features. With `vim` and `emacs` you keep your hands on the keyboard and rarely use the mouse. Some find this helpful not only for productivity but to reduce repetitive strain injury (RSI) such as carpal tunnel syndrome. `vim` takes some time to learn. Visit the [vim](https://www.vim.org/) website.
 
-In January 2025, look for the Wintersession workshop [Mastering vim: Edit as Fast as You Think](https://github.com/troycomi/intermediate-vim). See a `vim` configuration file for macOS on [iscinumpy.dev](https://iscinumpy.dev/post/setup-a-new-mac/).
+In January 2026, look for the Wintersession workshop [Mastering vim: Edit as Fast as You Think](https://github.com/biermanr/intermediate-vim). See a `vim` configuration file for macOS on [iscinumpy.dev](https://iscinumpy.dev/post/setup-a-new-mac/).
 
 ### neovim
 
@@ -48,14 +48,22 @@ Neovim offers these benefits:
 - telescope: a fuzzy file finder plugin
 - treesitter for syntax highlighting
 
-On the Research Computing clusters, you should build Neovim from source so that you can use the latest version. To use version 0.9.5, run these commands: 
+On Della and Tiger, one can install Neovim by running these commands:
 
 ```bash
 $ wget https://github.com/neovim/neovim/releases/download/v0.11.2/nvim-linux-x86_64.tar.gz
 $ tar -C . -xzf nvim-linux-x86_64.tar.gz
-$ cd bin
+$ cd nvim-linux-x86_64/bin
 $ ./nvim
 ```
+
+One can also install it using `conda`:
+
+```
+$ conda create --name nvim-env nvim -c conda-forge -y
+```
+
+On Stellar and older systems, you may need to use an older version or build from source.
 
 ## IDEs
 
