@@ -6,7 +6,7 @@ One needs to use a tool to enter and modify source code. On this page we discuss
 
 ### emacs
 
-To start emacs on a Research Computing system:
+To start `emacs` on a Research Computing system:
 
 ```
 $ emacs
@@ -16,13 +16,13 @@ $ emacs
 
 ### nano
 
-To start emacs on a Research Computing system:
+To start `nano` on a Research Computing system:
 
 ```
 $ nano
 ```
 
-`nano` is easy to learn.
+`nano` is easy to learn and widely available.
 
 ### vim
 
@@ -73,6 +73,13 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 [Visual Studio Code](https://code.visualstudio.com/) or VS Code is a popular IDE for Python and several other languages. After installing, see the [getting started](https://code.visualstudio.com/docs/?dv=osx) materials.
 
+**Upcoming workshop**:
+
+[Connecting Visual Studio Code to the Research Computing Clusters](https://cglink.me/2gi/r1960584)
+Thursday, June 26, 2025 at 2:30-4:00 PM
+Location: Lewis Library 121
+Instructor: Mattie Niznik, Research Software & Programming Analyst, Research Computing
+
 [Remote development](https://researchcomputing.princeton.edu/support/knowledge-base/vs-code) is possible on the Research Computing systems. This allows you work with files on a remote system with VS code installed locally on your laptop.
 
 Another way to use VS Code on the Research Computing clusters is via [Open OnDemand](https://researchcomputing.princeton.edu/support/knowledge-base/connect-web). In the main menu, choose "Interactive Apps" then "CodeServer on Vis Nodes".
@@ -90,9 +97,9 @@ Users can work on a GitHub repo in a browser-based VS Code environment. To do th
 Princeton Research Computing encourages researchers using the high-performance computing clusters to know one or more tools for simple editing and IDE-like work for software engineering. Here are some good possibilities:
 
 - VS Code and nano/emacs/vim
-- PyCharm and nano/emacs/vim
 - emacs (fully configured as an IDE)
 - vim (fully configured as an IDE)
+- PyCharm and nano/emacs/vim
 
 The general idea is to know a simple text editor and something with IDE features.
 
