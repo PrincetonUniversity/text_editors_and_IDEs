@@ -71,7 +71,7 @@ What is an IDE? An integrated development environment (IDE) is a software applic
 
 ### VS Code
 
-[Visual Studio Code](https://code.visualstudio.com/) or VS Code is a popular IDE for Python and several other languages. After installing, see the [getting started](https://code.visualstudio.com/docs/?dv=osx) materials.
+[Visual Studio Code](https://code.visualstudio.com/) or VS Code is a popular IDE for Python and several other languages. After installing, see the [getting started](https://code.visualstudio.com/docs/getstarted/userinterface) materials.
 
 <table><tr><td>
 <b>Upcoming workshop</b><br>
