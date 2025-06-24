@@ -12,7 +12,7 @@ To start `nano` on a Research Computing system:
 $ nano
 ```
 
-`nano` is easy to learn and widely available.
+`nano` is easy to learn and widely available. Do not use `nano` if you regularly write code. Instead, use a more advanced tool.
 
 ### vim
 
