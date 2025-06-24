@@ -4,16 +4,6 @@ One needs to use a tool to enter and modify source code. On this page we discuss
 
 ## Command-Line Text Editors
 
-### emacs
-
-To start `emacs` on a Research Computing system:
-
-```
-$ emacs
-```
-
-`emacs` can be used for many tasks beyond text editing. It can be configured to mimic an IDE. Some find that a finely-tuned `emacs` configuration can outpace any IDE for software engineering. Visit the [emacs](https://www.gnu.org/software/emacs/) website. `emacs` takes some time to learn.
-
 ### nano
 
 To start `nano` on a Research Computing system:
@@ -64,6 +54,16 @@ $ conda create --name nvim-env nvim -c conda-forge -y
 ```
 
 On Stellar and older systems, you may need to use an older version or build from source.
+
+### emacs
+
+To start `emacs` on a Research Computing system:
+
+```
+$ emacs
+```
+
+`emacs` can be used for many tasks beyond text editing. It can be configured to mimic an IDE. Some find that a finely-tuned `emacs` configuration can outpace any IDE for software engineering. Visit the [emacs](https://www.gnu.org/software/emacs/) website. `emacs` takes some time to learn.
 
 ## IDEs
 
